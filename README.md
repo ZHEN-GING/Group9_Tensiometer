@@ -5,7 +5,8 @@
 2. System Parts: 
 Steel gearing fit with servo motor(25T) ： https://www.amazon.com/dp/B07YWKMQ1M?ref=ppx_pop_mob_ap_share
 
-  LCD Screen： https://www.amazon.com/dp/B07S7PJYM6?ref=ppx_pop_mob_ap_share
+LCD Screen： https://www.amazon.com/dp/B07S7PJYM6?ref=ppx_pop_mob_ap_share
+
 ESP-12P： https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES/ref=sr_1_2_sspa?keywords=esp8266+12f&qid=1651619070&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUjAwSkZWMFVPQTY2JmVuY3J5cHRlZElkPUEwMDAzMzU1MjA0SjVCRzRFRVo3UCZlbmNyeXB0ZWRBZElkPUEwMjc3NDYyMkZXWTA3NVJPVzBEQyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
 
   Servo Motor： https://www.amazon.com/dp/B07Z3VGZNP?ref=ppx_pop_mob_ap_share
